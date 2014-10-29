@@ -626,3 +626,5 @@ define({
     
     // extensions/default/WebPlatformDocs
     "DOCS_MORE_LINK"                            : "Прочети повече"
+
+    /* Last translated for 0a0f6031fc2c2ea574fffc749ae4cff8f7f48509 */
